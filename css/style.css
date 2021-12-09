@@ -1,6 +1,6 @@
 body {
   background: #ffdf3b;
-  color: #9f1d2a;
+  /* color: #9f1d2a; */
   padding: 0;
   margin: 0;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
@@ -22,24 +22,12 @@ body {
 
 
 
-.row {
-  background: white;
-  border-radius: 30px;
-  box-shadow: 12px 12px 20px gray;
-  margin-top: 40px;
-
-}
-
-img {
-  border-radius: 30px
-}
-
 .btn1 {
   border: none;
   outline: none;
   height: 50px;
   width: 100%;
-  background-color: rgb(128, 41, 43);
+  background-color: #800000;
   color: white;
   border-radius: 4px;
   font-weight: bold;
