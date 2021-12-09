@@ -53,7 +53,7 @@
         <a class="nav-link" href="#">Events</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" >login</a>
+        <a class="nav-link" href="login.php" >login</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="register.php">Register</a>
