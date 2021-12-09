@@ -1,1 +1,1 @@
-# almumni-system-buglovers
+# alumni-system-buglovers
