@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4_52 {
+  width: 100%;
+  height: 823px;
+  background: rgba(255,215,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_54 {
+  width: 100%;
+  height: 78px;
+  background: rgba(116,49,1,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_55 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_56 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 218px;
+  left: 37px;
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_57 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 141px;
+  left: 40px;
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_64 {
+  width: 100%;
+  height: 33px;
+  background: url("../images/v4_64.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 666px;
+  left: 91px;
+  overflow: hidden;
+}
+.v4_53 {
+  width: 100%;
+  height: 28px;
+  background: rgba(175,10,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 14px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v4_59 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_63 {
+  width: 100%;
+  height: 163px;
+  background: url("./images/CentralPark.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  opacity: 1;
+  position: absolute;
+  top: 370px;
+  left: 40px;
+  overflow: hidden;
+}
+
+.v6_84 {
+  width: 100%;
+  height: 26px;
+  background: rgba(196,196,196,0);
+  opacity: 1;
+  position: absolute;
+  top: 78px;
+  left: 0px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v6_85 {
+  width: 100%;
+  height: 26px;
+  background: rgba(196,196,196,0);
+  opacity: 1;
+  position: absolute;
+  top: 78px;
+  left: 205px;
+  border: 2px solid rgba(0,0,0,1);
+  overflow: hidden;
+}

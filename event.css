@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.header {
+  /*width: 411px;*/
+  height: 823px;
+  background: rgba(255,215,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.body {
+  /*width: 411px;*/
+  height: 78px;
+  background: rgba(116,49,1,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.MHAA {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 20px;
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.Home {
+  width: 100%;
+  color: rgba(0,56,255,1);
+  position: absolute;
+  top: 122px;
+
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.All {
+  width: 100%;
+  color: rgba(0,56,255,1);
+  position: absolute;
+  top: 234px;
+
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.Dance {
+  width: 100%;
+  color: rgba(0,56,255,1);
+  position: absolute;
+  top: 345px;
+ 
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.Previous {
+  width: 100%;
+  color: rgba(0,56,255,1);
+  position: absolute;
+  top: 456px;
+
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.Family {
+  width: 100%;
+  color: rgba(0,56,255,1);
+  position: absolute;
+  top: 567px;
+
+  font-family: Reem Kufi;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
