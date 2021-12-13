@@ -36,7 +36,8 @@
         padding-left: 73px;
       }
       body {
-        background: #ffdf3b;
+        /* background: #ffdf3b; */
+        background: rgba(255, 180, 0, 0.2);
         /* color: #9f1d2a; */
         padding: 0;
         margin: 0;
@@ -85,6 +86,7 @@
         border-radius: 4px;
         font-weight: bold;
         float: right;
+        margin-right: 20px;
       }
 
       .askquestionButton:hover {
@@ -126,9 +128,11 @@
   </head>
 
   <body>
-    <button value="Ask a question" class="askquestionButton mt-5 mb-5 ml-3">
-      Ask a question
-    </button>
+    <a href="askQuestion.html">
+      <button value="Ask a question" class="askquestionButton mt-5 mb-5 ml-5">
+        Ask a question
+      </button>
+    </a>
 
     <h2>Frequently Asked Questions</h2>
 
