@@ -61,21 +61,35 @@
 
             <form action="" method="GET">
               <div class="form-group">
-                <textarea
-                  class="form-control"
-                  id="exampleFormControlTextarea1"
-                  rows="3"
-                  placeholder="Ask a question"
-                ></textarea>
-              </div>
+                <div class="form-row">
+                  <div class="col-lg-7">
+                    <input
+                      type="email"
+                      name="email"
+                      placeholder="Title Of Your Question"
+                      class="form-control my-2 p-2"
+                    />
+                  </div>
+                </div>
 
-              <div class="form-group">
-                <input
-                  type="submit"
-                  name="login"
-                  value="Submit Your Question"
-                  class="btn1 mt-5 mb-5"
-                />
+                <div class="form-row">
+                  <div class="col-lg-7">
+                    <textarea
+                      class="form-control"
+                      rows="4"
+                      placeholder="Ask A Question "
+                    ></textarea>
+                  </div>
+                </div>
+
+                <div class="form-row">
+                  <input
+                    type="submit"
+                    name="login"
+                    value="Submit Your Question"
+                    class="btn1 mt-5 mb-5"
+                  />
+                </div>
               </div>
             </form>
           </div>
