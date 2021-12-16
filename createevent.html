@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Reem+Kufi&display=swap" rel="stylesheet" />
+    <title>Create Event</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .header {
+            /*width: 411px;*/
+            height: 823px;
+            background: rgba(255, 215, 0, 1);
+            opacity: 1;
+            position: relative;
+            top: 0px;
+            left: 0px;
+            overflow: hidden;
+        }
+
+        .body {
+            /*width: 411px;*/
+            height: 78px;
+            background: rgba(116, 49, 1, 1);
+            opacity: 1;
+            position: relative;
+            top: 0px;
+            left: 0px;
+            overflow: hidden;
+        }
+
+        .main {
+            margin: auto;
+            width: 15%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="body"></div>
+        <div class="main">
+            <label for="ename">Event name:</label><br>
+            <input type="text" id="ename" name="ename" value="Enter the name of your event"><br><br>
+
+            <label for="edescription">Event Description:</label>
+            <textarea name="edescription" rows="10"
+                cols="30">Enter a description for your event here.</textarea><br><br>
+
+            <label for="edate">Event date:</label>
+            <input type="date" id="edate" name="edate"><br><br>
+
+            <label for="elink">If this is a virtual event, enter the link for this event:</label><br><br>
+            <input type="text" id="elink" name="elink" value="Event link"><br><br>
+
+            <input type="submit">
+        </div>
+    </div>
+</body>
+
+</html>
